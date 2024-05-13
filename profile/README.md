@@ -19,8 +19,8 @@
 Medialooks is a team of highly skilled professionals dedicated to developing specialized, smart tools for media software development. Our easy-to-use software development kits empower companies to rapidly build commercial solutions tailored for industries such as broadcast, sports, and digital signage, facilitating advanced video-intensive applications.
 
 # Our Products
-## Video SDK
-The [Medialooks Video SDK]([url](https://medialooks.com/video-sdk)) delivers a rich suite of features that streamline product development, enabling you to achieve your business goals without the need for a large development team. This SDK is designed to simplify the creation of professional video and media applications, allowing you to bypass the complexities of starting from scratch. It is compatible with C#, VB.Net, C++, and Delphi, and includes numerous samples for common scenarios to guide you. Depending on your needs, you can choose the Video SDK for business-focused development with pre-configured scenarios, or select the low-level API for complete control over the development pipeline, focusing on feature-driven development.
+## [Medialooks Video SDK](https://medialooks.com/video-sdk)
+The Medialooks Video SDK delivers a rich suite of features that streamline product development, enabling you to achieve your business goals without the need for a large development team. This SDK is designed to simplify the creation of professional video and media applications, allowing you to bypass the complexities of starting from scratch. It is compatible with C#, VB.Net, C++, and Delphi, and includes numerous samples for common scenarios to guide you. Depending on your needs, you can choose the Video SDK for business-focused development with pre-configured scenarios, or select the low-level API for complete control over the development pipeline, focusing on feature-driven development.
 
 ### Key Features:
 
@@ -30,7 +30,7 @@ The [Medialooks Video SDK]([url](https://medialooks.com/video-sdk)) delivers a r
 - Intuitive API for easy development
 
 
-## Medialooks Video Transport
+## [Medialooks Video Transport](https://medialooks.com/video-transport)
 Medialooks Video Transport is a powerful solution designed to simplify the remote production and transport of high-quality video over IP networks. Ideal for broadcast and live events, this product offers low-latency transmission, adaptive bitrate control, and support for leading industry standards.
 
 ### Key Features:
@@ -41,7 +41,7 @@ Medialooks Video Transport is a powerful solution designed to simplify the remot
 - Easy integration with existing workflows
 
 
-## Direct Take
+## [Direct Take](https://medialooks.com/direct-take)
 Direct Take is tailored for live event producers and broadcasters, enabling them to capture multiple video streams directly from cameras and other video sources. With its robust features, Direct Take simplifies the recording process, ensuring high-quality outputs and reliability during live productions.
 
 ### Key Features:
@@ -51,7 +51,7 @@ Direct Take is tailored for live event producers and broadcasters, enabling them
 - Integrated live preview and adjustable delay features
 - Advanced metadata handling and timecode support
 
-## Direct Convert
+## [Direct Convert](https://medialooks.com/products/direct-convert)
 This software converter efficiently transitions from SDI to NDI and NDI to SDI, enabling seamless integration of existing hardware into versatile workflows for both production and IP-based streaming. It supports a range of input sources including SDI/HDMI devices, web cameras, IP cameras, and various network streams, with outputs to NDI or SDI, requiring minimal system configurations such as Windows 10, an Intel i7-7700 or AMD Ryzen 5 3600 CPU, NVIDIA GTX 750 Ti, and 8 GB RAM.
 
 
